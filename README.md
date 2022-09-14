@@ -18,7 +18,7 @@ I am a Web Developer and Software Developer (Intern)  who is passionate about ma
  <li><img src="image.jpg">PL/SQL</li>
  </ul>
  
-
+# More About KGALAELO :
 <ul>
 <li>🔭 I’m currently working on http://10.144.33.18/UNICEFZambiaSupplierDatabase </li>
 <li>🌱 I’m currently learning Python-Machine learning </li>
