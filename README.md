@@ -6,7 +6,7 @@ I am a Web Developer and Software Developer (Intern)  who is passionate about ma
 
 Skills: ASP.Net MVC / Javascript / C# / HTML / CSS / JQuery(AJAX) / Java / Android Studio / SQL / PL/SQL
 <ul>
- <li><img src="14621971553750220-512.png"></li>
+ <li><img src="C:\Users\Kgalalelo.Mapikitla\OneDrive - Ipsos\Documents\LELO_Content\Images\14621971553750220-512.png"></li>
   <li><img src="image.jpg"></li>
   <li><img src="image.jpg"></li>
   <li><img src="image.jpg"></li>
