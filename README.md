@@ -8,7 +8,8 @@ Skills: ASP.Net MVC / Javascript / C# / HTML / CSS / JQuery(AJAX) / Java / Andro
 <ul>
  <li><img src="C:\Users\Kgalalelo.Mapikitla\OneDrive - Ipsos\Documents\LELO_Content\Images\14621971553750220-512.png"></li>
   <li><img src="[image.jpg](https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png)"></li>
- <img src="C:\Users\Kgalalelo.Mapikitla\OneDrive - Ipsos\Documents\LELO_Content\Images\14621971553750220-512.png" alt="Italian Trulli">
+<p><img src="[image.jpg](https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png)" alt="Smiley face" style="float:left;width:42px;height:42px;">
+The image will float to the right of the text.</p>
   <li><img src="image.jpg"></li>
   <li><img src="image.jpg"></li>
 </ul>
