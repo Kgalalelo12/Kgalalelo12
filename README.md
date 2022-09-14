@@ -31,6 +31,14 @@ I am a Web Developer and Software Developer (Intern)  who is passionate about ma
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kgalalelo12)](https://github.com/anuraghazra/github-readme-stats)
 # Languages Currently Using :
-
+<ul>
+<li>ASP.Net </li>
+<li>MVC </li>
+<li> C#  </li>
+<li>SQL </li>
+<li> Javascript </li>
+ <li> HTML </li>
+ <li> CSS </li>
+</ul>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kgalalelo12)  
 
