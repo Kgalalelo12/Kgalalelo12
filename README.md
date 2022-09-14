@@ -6,16 +6,16 @@ I am a Web Developer and Software Developer (Intern)  who is passionate about ma
 
 # Skills & Experience :
 <ul>
- <li>ASP.Net MVC </li>
- <li>Javascript </li>
- <li>C# </li>
- <li>HTML </li>
- <li>CSS </li>
- <li>JQuery(AJAX) </li>
- <li>Java </li>
- <li>Android Studio </li>
- <li>SQL </li>
- <li>PL/SQL</li>
+ <li> <img src="image.jpg">ASP.Net MVC </li>
+ <li><img src="image.jpg">Javascript </li>
+ <li><img src="image.jpg">C# </li>
+ <li><img src="image.jpg">HTML </li>
+ <li><img src="image.jpg">CSS </li>
+ <li><img src="image.jpg">JQuery(AJAX) </li>
+ <li><img src="image.jpg">Java </li>
+ <li><img src="image.jpg">Android Studio </li>
+ <li><img src="image.jpg">SQL </li>
+ <li><img src="image.jpg">PL/SQL</li>
  </ul>
  
 <ul>
