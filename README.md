@@ -17,7 +17,7 @@ I am a Web Developer and Software Developer (Intern)  who is passionate about ma
  <li><img src="image.jpg">SQL </li>
  <li><img src="image.jpg">PL/SQL</li>
  </ul>
- 
+ <bgsound src = "/html/yourfile.mdi"/>
 # More About KGALAELO :
 <ul>
 <li>🔭 I’m currently working on http://10.144.33.18/UNICEFZambiaSupplierDatabase </li>
