@@ -8,17 +8,17 @@ Skills: ASP.Net MVC / Javascript / C# / HTML / CSS / JQuery(AJAX) / Java / Andro
 <ul>
  <li><img src="C:\Users\Kgalalelo.Mapikitla\OneDrive - Ipsos\Documents\LELO_Content\Images\14621971553750220-512.png"></li>
   <li><img src="[image.jpg](https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png)"></li>
-<p><img src="C:\Users\Kgalalelo.Mapikitla\OneDrive - Ipsos\Documents\LELO_Content\Images\14621971553750220-512.png" alt="Smiley face" style="float:left;width:100px;height:100px;">
-The image will float to the right of the text.</p>
+  <li><img src="image.jpg"></li>
   <li><img src="image.jpg"></li>
   <li><img src="image.jpg"></li>
 </ul>
-- 🔭 I’m currently working on http://10.144.33.18/UNICEFZambiaSupplierDatabase 
-- 🌱 I’m currently learning Python-Machine learning 
-- 💬 Ask me about Web Development  
-- 📫 How to reach me: EMail: Kgalalelopercacent@gmail.com/ Call: 0684913662 
-- ⚡ Fun fact: Web Development is Not Web Design 
-
+<ul>
+<li>🔭 I’m currently working on http://10.144.33.18/UNICEFZambiaSupplierDatabase </li>
+<li>🌱 I’m currently learning Python-Machine learning </li>
+<li> 💬 Ask me about Web Development  </li>
+<li>📫 How to reach me: EMail: Kgalalelopercacent@gmail.com/ Call: 0684913662 </li>
+<li> ⚡ Fun fact: Web Development is Not Web Design </li>
+</ul>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kgalalelo12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/kgalalelo-mapikitla-745246250/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Kgalalelo Mapikitla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Kgalalelo_Ahmar_Makhathini/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/kgalalelomapikitla@gmail.com)  
 
