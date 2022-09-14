@@ -4,7 +4,7 @@
 
 I am a Web Developer and Software Developer (Intern)  who is passionate about making error-free websites/Web applications with 100% client satisfaction.  I have a passion for learning and sharing my knowledge with others as publicly as possible.  I love to solve real-world problems.  I am strategic, goal-orientated and always work with an end goal in mind.  Over the past year,  I created a number of web applications and websites for the company I am currently employed at.  I pride myself on doing quality work and maintain excellent communication.  Most of the time I work with ASP.Net MVC, C#, Javascript, HTML, CSS, SQL and Jquery but some other Technologies i can and enjoy woking with include PHP, PL/SQL, JAVA,Ado.Net,  Android Studio and Visual Basics.
 
-#Skills: ASP.Net MVC / Javascript / C# / HTML / CSS / JQuery(AJAX) / Java / Android Studio / SQL / PL/SQL
+# Skills: ASP.Net MVC / Javascript / C# / HTML / CSS / JQuery(AJAX) / Java / Android Studio / SQL / PL/SQL
 <ul>
  <li><img src="C:\Users\Kgalalelo.Mapikitla\OneDrive - Ipsos\Documents\LELO_Content\Images\14621971553750220-512.png"></li>
   <li><img src="[image.jpg](https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png)"></li>
