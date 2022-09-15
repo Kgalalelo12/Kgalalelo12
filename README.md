@@ -7,7 +7,7 @@ I am a Web Developer and Software Developer (Intern)  who is passionate about ma
 # Skills & Experience :
 <ul>
  <li> <img src="[image.jpg](https://www.bing.com/th?id=OIP.f0X9ch6wMYGbHz4PFgaSsAHaFo&w=286&h=218&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2)">ASP.Net MVC </li>
- <li><img src="c#.jfif">Javascript </li>
+ <li><img src="Kgalalelo12/C#.jfif">Javascript </li>
  <li><img src="image.jpg">C# </li>
  <li><img src="image.jpg">HTML </li>
  <li><img src="image.jpg">CSS </li>
